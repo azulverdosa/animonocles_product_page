@@ -60,13 +60,13 @@ Resizing
 
 ---
 
-Top of page showing logo and about section.
+Top of page showing logo and about section:
 ![Home Page](/UI/Screenshots/1.png 'Home Page')
 
-Middle of page showing features of the product with links to feature descriptions that currently are not enabled.
+Middle of page showing features of the product with links to feature descriptions that currently are not enabled:
 ![Features](/UI/Screenshots/2.png 'Features')
 
-Bottom of page shoing video and testimonials.
+Bottom of page shoing video and testimonials:
 ![Video and tesimonials](/UI/Screenshots/3.png 'Video and tesimonials')
 
 What happens to the page when the screen becomes less than 800px wide.
@@ -105,7 +105,7 @@ For running the server and app together I am using concurrently this helps a lot
 
 ---
 
-At the moment there is no real functionaliyt to the page, simple a place to see the product, however I plan on adding some functionality soon.
+At the moment there is no real functionality to the page, simply a place to see the product, however I plan on adding some functionality soon.
 
 ## Project Status
 
