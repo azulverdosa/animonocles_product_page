@@ -52,6 +52,10 @@ Contact
 
 - How to get in touch with the company.
 
+Scalable
+
+- If the screen size for the application is changed to 800px wide or less the page shifts to an image of a cat with a monicle.
+
 ## Screenshots
 
 ---
@@ -63,6 +67,10 @@ Middle of page showing features of the product with links to feature description
 ![Features](/UI/Screenshots/2.png 'Features')
 
 Bottom of page shoing video and testimonials.
+![Video and tesimonials](/UI/Screenshots/3.png 'Video and tesimonials')
+
+What happens to the page when the screen becomes less than 800px wide.
+![less thank 800px](/UI/Screenshots/4.png 'less thank 800px')
 
 ## Setup
 
