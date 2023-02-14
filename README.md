@@ -23,7 +23,7 @@
 
 ---
 
-This project was to simulate building a single page website that was a product page for a business. I created the business and added a few product features to the website to enhance the viewer experience. This project was part of the [Free Code Camp](https://www.freecodecamp.org/) coding basics courses and was the first project I ever built. She's simple, but I got my feet wet and I'm proud of her.
+This project was to build a single page website that was a product page for a business. I created the business and added a few product features to the website to enhance the viewer experience. This project was part of the [Free Code Camp](https://www.freecodecamp.org/) coding basics courses and was the first project I ever built. She's simple, but I got my feet wet and I'm proud of her.
 
 ## Technologies Used
 
