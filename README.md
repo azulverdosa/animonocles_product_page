@@ -123,7 +123,7 @@ Improvement Thoughts:
 
 - Improve layout for better viewing
 - Edit NavBar - soemthing has changed since original creation?
-- Give funstionality to links
+- Give functionality to links
 - Create a SPA using React
 - Allow for user registration and login
 - Add shopping cart for orders
