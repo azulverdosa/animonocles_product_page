@@ -1,6 +1,6 @@
 # Animnonicles Product Page
 
-> A fairly simple project from my first days of coding! Many thanks to [Free Code Camp](https://www.freecodecamp.org/) for all their guidance and support! Live demo to go here.
+> A fairly simple project from my first days of coding! Many thanks to [Free Code Camp](https://www.freecodecamp.org/) for all their guidance and support! Live demo to go here (coming soon).
 
 ## Table of Contents
 
