@@ -52,7 +52,7 @@ Contact
 
 - How to get in touch with the company.
 
-Scalable
+Resizing
 
 - If the screen size for the application is changed to 800px wide or less the page shifts to an image of a cat with a monicle.
 
