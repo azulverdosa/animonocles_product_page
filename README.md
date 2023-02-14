@@ -140,7 +140,7 @@ To do:
 
 ---
 
-This project was based on [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) tutorial from [FreeCodeCamp](https://www.freecodecamp.org)
+This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [FreeCodeCamp](https://www.freecodecamp.org)
 
 ##Contact
 
