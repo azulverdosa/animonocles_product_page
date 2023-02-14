@@ -25,11 +25,6 @@
 
 This project was to simulate building a single page website that was a product page for a business. I created the business and added a few product features to the website to enhance the viewer experience. This project was part of the [Free Code Camp](https://www.freecodecamp.org/) coding basics courses and was the first project I ever built. She's simple, but I got my feet wet and I'm proud of her.
 
-Provide general information about your project here.
-What problem does it (intend to) solve?
-What is the purpose of your project?
-Why did you undertake it?
-
 ## Technologies Used
 
 ---
