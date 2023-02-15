@@ -86,12 +86,14 @@ What happens to the page when the screen becomes less than 800px wide.
 
 ### Available Commands
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-`"npm start" : "react-scripts start"`,
+`npm start`
 
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-You will also see any lint errors in the console.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
 
 <!-- ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
@@ -107,7 +109,7 @@ At the moment there is no real functionality to the page, simply a place to see 
 
 ---
 
-Project is: in progress
+Project is: In Progress
 
 ## Room for Improvement
 
