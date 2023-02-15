@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
----
-
 - [General Info](#general)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -21,21 +19,15 @@
 
 ## General Information
 
----
-
 This project was to build a single page website that was a product page for a business. I created the business and added a few product features to the website to enhance the viewer experience. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was the first project I ever built. She's simple, but I got my feet wet and I'm proud of her.
 
 ## Technologies Used
-
----
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
 ## Features
-
----
 
 Product feature links
 
@@ -59,8 +51,6 @@ Resizing
 
 ## Screenshots
 
----
-
 Top of page showing logo and about section:
 ![Home Page](/UI/Screenshots/1.png 'Home Page')
 
@@ -74,8 +64,6 @@ What happens to the page when the screen becomes less than 800px wide.
 ![less thank 800px](/UI/Screenshots/4.png 'less thank 800px')
 
 ## Setup
-
----
 
 ### Run Locally
 
@@ -101,19 +89,13 @@ For running the server and app together I am using concurrently this helps a lot
 
 ## Usage
 
----
-
 At the moment there is no real functionality to the page, simply a place to see the product, however I plan on adding some functionality soon.
 
 ## Project Status
 
----
-
 Project is: In Progress
 
 ## Room for Improvement
-
----
 
 This project is over a year old now and having learned a few more things I'm re-visiting it to add some upgrades. I have already added a backend API to start but will need to add functionality as well.
 
@@ -136,21 +118,15 @@ To do:
 
 ## Acknowledgements
 
----
-
 This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org)
 
 ##Contact
-
----
 
 Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
 
 ## 🤝 Support
-
----
 
 Contributions, issues, and feature requests are welcome!
 
