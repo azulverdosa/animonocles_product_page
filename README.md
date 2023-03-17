@@ -9,8 +9,8 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
-  - [Dependencies](#dependencies)
-  - [Available Commands](#available-commands)
+- [Dependencies](#dependencies)
+- [Available Commands](#available-commands)
 - [Usage](#usage)
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
@@ -35,11 +35,11 @@ Product feature links
 
 Video link to YouTube
 
-- Video that shows the history of monicles.
+- Video that shows the history of monocles.
 
 Testimonials
 
-- Client tesimonials for the product
+- Client testimonials for the product
 
 Contact
 
@@ -47,7 +47,7 @@ Contact
 
 Resizing
 
-- If the screen size for the application is changed to 800px wide or less the page shifts to an image of a cat with a monicle.
+- If the screen size for the application is changed to 800px wide or less the page shifts to an image of a cat with a monocle.
 
 ## Screenshots
 
@@ -57,11 +57,11 @@ Top of page showing logo and about section:
 Middle of page showing features of the product with links to feature descriptions that currently are not enabled:
 ![Features](/UI/Screenshots/2.png 'Features')
 
-Bottom of page shoing video and testimonials:
-![Video and tesimonials](/UI/Screenshots/3.png 'Video and tesimonials')
+Bottom of page showing video and testimonials:
+![Video and testimonials](/UI/Screenshots/3.png 'Video and testimonials')
 
 What happens to the page when the screen becomes less than 800px wide.
-![less thank 800px](/UI/Screenshots/4.png 'less thank 800px')
+![less than 800px](/UI/Screenshots/4.png 'less than 800px')
 
 ## Setup
 
@@ -84,6 +84,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.
 
 <!-- ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+
 
 For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together. -->
 
